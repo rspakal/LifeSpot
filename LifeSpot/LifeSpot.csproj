@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Include="C:\Users\Павел\Desktop\sc web\index.css" Link="index.css" />
+      <None Include="C:\Users\Павел\Desktop\sc web\index.html" Link="index.html" />
+    </ItemGroup>
+
+</Project>
